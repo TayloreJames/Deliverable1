@@ -1,0 +1,12 @@
+/Users/TJames/Projects/VacationDecisions/VacationDecisions/obj/Debug/netcoreapp3.1/VacationDecisions.csprojAssemblyReference.cache
+/Users/TJames/Projects/VacationDecisions/VacationDecisions/obj/Debug/netcoreapp3.1/VacationDecisions.AssemblyInfoInputs.cache
+/Users/TJames/Projects/VacationDecisions/VacationDecisions/obj/Debug/netcoreapp3.1/VacationDecisions.AssemblyInfo.cs
+/Users/TJames/Projects/VacationDecisions/VacationDecisions/obj/Debug/netcoreapp3.1/VacationDecisions.csproj.CoreCompileInputs.cache
+/Users/TJames/Projects/VacationDecisions/VacationDecisions/bin/Debug/netcoreapp3.1/VacationDecisions.deps.json
+/Users/TJames/Projects/VacationDecisions/VacationDecisions/bin/Debug/netcoreapp3.1/VacationDecisions.runtimeconfig.json
+/Users/TJames/Projects/VacationDecisions/VacationDecisions/bin/Debug/netcoreapp3.1/VacationDecisions.runtimeconfig.dev.json
+/Users/TJames/Projects/VacationDecisions/VacationDecisions/bin/Debug/netcoreapp3.1/VacationDecisions.dll
+/Users/TJames/Projects/VacationDecisions/VacationDecisions/bin/Debug/netcoreapp3.1/VacationDecisions.pdb
+/Users/TJames/Projects/VacationDecisions/VacationDecisions/obj/Debug/netcoreapp3.1/VacationDecisions.dll
+/Users/TJames/Projects/VacationDecisions/VacationDecisions/obj/Debug/netcoreapp3.1/VacationDecisions.pdb
+/Users/TJames/Projects/VacationDecisions/VacationDecisions/obj/Debug/netcoreapp3.1/VacationDecisions.genruntimeconfig.cache
